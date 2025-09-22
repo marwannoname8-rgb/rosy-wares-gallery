@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/rosy-wares-gallery/", // 👈 مهم جدًا لربط المشروع مع GitHub Pages
+  base: "/rosy-wares-gallery/", // 👈 مهم جداً لموقع GitHub Pages
   server: {
     host: "::",
     port: 8080,
